@@ -101,7 +101,7 @@ Senior Full-Stack Developer with **18+ years** building scalable APIs, SaaS plat
     <td width="50%">
       <h3 align="center">The Koffies</h3>
       <p align="center">
-        <a href="https://www.thekoffies.com" target="_blank"><img src="https://img.shields.io/badge/Live-thekoffies.com-06B6D4?style=flat-square" /></a>
+        <a href="https://lastfridays.thekoffies.com" target="_blank"><img src="https://img.shields.io/badge/Live-lastfridays.thekoffies.com-06B6D4?style=flat-square" /></a>
       </p>
       <p>High-performance hospitality booking & event ticketing platform with modern Next.js frontend.</p>
       <p><sub>Next.js · TypeScript · React · TailwindCSS</sub></p>

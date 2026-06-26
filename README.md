@@ -99,20 +99,38 @@ Senior Full-Stack Developer with **18+ years** building scalable APIs, SaaS plat
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">The Koffies Booking App</h3>
+      <h3 align="center">The Koffies</h3>
       <p align="center">
-        <a href="https://github.com/mcquaye/thekoffies-booking-app" target="_blank"><img src="https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github" /></a>
+        <a href="https://www.thekoffies.com" target="_blank"><img src="https://img.shields.io/badge/Live-thekoffies.com-06B6D4?style=flat-square" /></a>
       </p>
-      <p>High-performance hospitality booking system for event ticketing. Modern Next.js frontend with TypeScript.</p>
+      <p>High-performance hospitality booking & event ticketing platform with modern Next.js frontend.</p>
       <p><sub>Next.js · TypeScript · React · TailwindCSS</sub></p>
     </td>
     <td width="50%">
-      <h3 align="center">Ping CRM React</h3>
+      <h3 align="center">Sankofa Market Place</h3>
       <p align="center">
-        <a href="https://github.com/mcquaye/pingcrm-react" target="_blank"><img src="https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github" /></a>
+        <a href="https://www.sankofamarket.place" target="_blank"><img src="https://img.shields.io/badge/Live-sankofamarket.place-06B6D4?style=flat-square" /></a>
       </p>
-      <p>Demo app illustrating <b>Inertia.js</b> with Laravel backend and React frontend — modern monolith architecture.</p>
-      <p><sub>Laravel · React · Inertia.js · TailwindCSS</sub></p>
+      <p>Custom Shopify e-commerce marketplace with <b>Stripe & PayPal</b> payments, vendor management, and full-featured storefront.</p>
+      <p><sub>Shopify · JavaScript · Stripe · PayPal</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Ronin Africa</h3>
+      <p align="center">
+        <a href="https://www.roninafrica.com" target="_blank"><img src="https://img.shields.io/badge/Live-roninafrica.com-06B6D4?style=flat-square" /></a>
+      </p>
+      <p>Fully custom digital agency website — <b>zero frameworks</b>, all graphics-to-code custom built.</p>
+      <p><sub>HTML5 · CSS3 · PHP · JavaScript · Bootstrap</sub></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Profico</h3>
+      <p align="center">
+        <a href="https://proficogh.com" target="_blank"><img src="https://img.shields.io/badge/Live-proficogh.com-06B6D4?style=flat-square" /></a>
+      </p>
+      <p>Digital showcase for a furniture manufacturer with stunning photo gallery and product catalog.</p>
+      <p><sub>Laravel · Bootstrap · HTML5 · SCSS · JavaScript</sub></p>
     </td>
   </tr>
 </table>

@@ -1,16 +1,161 @@
-## Hi there 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Reuben+%F0%9F%91%8B;API+Architect;Full-Stack+Engineer;SaaS+Builder;12%2B+Years+of+Code" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Reuben+%F0%9F%91%8B;API+Architect;Full-Stack+Engineer;SaaS+Builder;12%2B+Years+of+Code" alt="Typing SVG" />
+  </picture>
+</p>
 
-<!--
-**mcquaye/mcquaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://mcquaye.com"><img src="https://img.shields.io/badge/Portfolio-mcquaye.com-000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:mcquaye@outlook.com"><img src="https://img.shields.io/badge/Email-mcquaye@outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mcquaye"><img src="https://img.shields.io/badge/LinkedIn-mcquaye-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mcquaye&label=Profile+Views&color=0891B2&style=flat-square" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mcquaye&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub+Stats" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcquaye&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+Senior Full-Stack Developer with **18+ years** building scalable APIs, SaaS platforms, and enterprise solutions across e-commerce, healthcare, and fintech. Backend architecture with **Laravel & PHP**, frontend with **React & TypeScript**. Deployed on **AWS** with AI-powered features.
+
+📍 Accra, Ghana &nbsp;·&nbsp; 🏢 Electroland Ghana Limited &nbsp;·&nbsp; 🌐 [mcquaye.com](https://mcquaye.com)
+
+> _"Just as we came about, so we shall go — like codes out of oblivion."_
+
+---
+
+### 🛠 Tech Stack
+
+<details open>
+<summary><b>Backend & APIs</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-000?style=for-the-badge&logo=swagger&logoColor=white" />
+</details>
+
+<details open>
+<summary><b>Frontend</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</details>
+
+<details open>
+<summary><b>Databases & Cloud</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+<img src="https://img.shields.io/badge/Rekognition-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
+</details>
+
+<details>
+<summary><b>E-commerce & CMS</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+</details>
+
+---
+
+### 🚀 Featured Work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Pet Sale & Adoption API</h3>
+      <p align="center">
+        <a href="https://lecanisgh.com" target="_blank"><img src="https://img.shields.io/badge/Live-lecanisgh.com-06B6D4?style=flat-square" /></a>
+      </p>
+      <p>RESTful API for pet marketplace with <b>AI-powered content moderation</b> (AWS Rekognition), malicious user detection, RBAC auth, and scalable AWS infrastructure.</p>
+      <p><sub>Laravel · PostgreSQL · AWS S3 · AWS Rekognition</sub></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Customer Loyalty ERP</h3>
+      <p align="center">
+        <a href="https://electrolandgh.com" target="_blank"><img src="https://img.shields.io/badge/Live-electrolandgh.com-06B6D4?style=flat-square" /></a>
+      </p>
+      <p>Comprehensive loyalty & ERP system for Ghana's largest electronics distributor. <b>USSD integration</b> for feature phones, points management, real-time analytics.</p>
+      <p><sub>Laravel · React · Redux · PostgreSQL · MySQL</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">The Koffies Booking App</h3>
+      <p align="center">
+        <a href="https://github.com/mcquaye/thekoffies-booking-app" target="_blank"><img src="https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github" /></a>
+      </p>
+      <p>High-performance hospitality booking system for event ticketing. Modern Next.js frontend with TypeScript.</p>
+      <p><sub>Next.js · TypeScript · React · TailwindCSS</sub></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Ping CRM React</h3>
+      <p align="center">
+        <a href="https://github.com/mcquaye/pingcrm-react" target="_blank"><img src="https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github" /></a>
+      </p>
+      <p>Demo app illustrating <b>Inertia.js</b> with Laravel backend and React frontend — modern monolith architecture.</p>
+      <p><sub>Laravel · React · Inertia.js · TailwindCSS</sub></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💼 Experience
+
+| Company                                    | Role                 | Period              |
+| ------------------------------------------ | -------------------- | ------------------- |
+| **Electroland Ghana Ltd**                  | Full-Stack Developer | Sep 2020 — Present  |
+| **Dripdok** (Bali, Indonesia)              | Frontend Developer   | Jan 2022 — Mar 2024 |
+| **LabMe by HelloWellness** (Delaware, USA) | Frontend Developer   | Jul 2021 — Oct 2023 |
+| **Ronin Africa**                           | Full-Stack Developer | Jun 2017 — 2022     |
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mcquaye&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Timeline" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mcquaye&theme=github-light&hide_border=true&area=true&custom_title=Contribution+Timeline" alt="Contribution Graph" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mcquaye&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="Trophies" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://mcquaye.com"><img src="https://img.shields.io/badge/🌐_Portfolio-mcquaye.com-000?style=for-the-badge" /></a>
+  <a href="mailto:mcquaye@outlook.com"><img src="https://img.shields.io/badge/📧_Email-mcquaye@outlook.com-EA4335?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/mcquaye"><img src="https://img.shields.io/badge/💼_LinkedIn-mcquaye-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0SDM3FNofPfASa2GvEzzB-M8wlpm3B13EzUJZxsH9B8lYudZbWnUlnZS2YoHH4MNHjZaKE_qoS?gv=true"><img src="https://img.shields.io/badge/📅_Schedule_a_Call-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building the future, one commit at a time.</i> 🚀
+</p>

@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+RMQ+%F0%9F%91%8B;API+Architect;Full-Stack+Engineer;SaaS+Builder;18%2B+Years+of+Code" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+RMQ+%F0%9F%91%8B;API+Architect;Full-Stack+Engineer;SaaS+Builder;18%2B+Years+of+Code" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+RMQ+%F0%9F%91%8B;Full-Stack+Product+Engineer;SaaS+Platform+Builder;API+Architect;18%2B+Years+Shipping+Code" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+RMQ+%F0%9F%91%8B;Full-Stack+Product+Engineer;SaaS+Platform+Builder;API+Architect;18%2B+Years+Shipping+Code" alt="Typing SVG" />
   </picture>
 </p>
 
@@ -23,7 +23,9 @@
 
 ### 👨‍💻 About Me
 
-Senior Full-Stack Developer with **18+ years** building scalable APIs, SaaS platforms, and enterprise solutions across e-commerce, healthcare, and fintech. Backend architecture with **Laravel & PHP**, frontend with **React & TypeScript**. Deployed on **AWS** with AI-powered features.
+**Full-Stack Product Engineer** with **18+ years** building complete SaaS platforms — solo, end-to-end. From database schema to mobile app, from payment integration to AI features, from CI/CD to production deploy. I ship products, not just code.
+
+**What I build:** Multi-tenant SaaS · Payment & billing systems · AI-powered features · Real-time WebSocket apps · Admin panels · React Native mobile apps
 
 📍 Accra, Ghana &nbsp;·&nbsp; 🏢 Electroland Ghana Limited &nbsp;·&nbsp; 🌐 [mcquaye.com](https://mcquaye.com)
 
@@ -80,6 +82,16 @@ Senior Full-Stack Developer with **18+ years** building scalable APIs, SaaS plat
 
 <table>
   <tr>
+    <td colspan="2" width="100%">
+      <h3 align="center">⭐ Adwuma — SaaS Project Management Platform</h3>
+      <p align="center">
+        <a href="https://adwuma.app" target="_blank"><img src="https://img.shields.io/badge/Live-adwuma.app-06B6D4?style=flat-square" /></a>
+      </p>
+      <p>Multi-tenant work management SaaS with <b>Paystack billing</b>, <b>AI (Gemini + Claude)</b>, real-time WebSocket notifications (Reverb), invoicing, 6 report types, admin panel, React SPA (8 micro-frontends) + React Native mobile app. <b>Built solo, end-to-end.</b></p>
+      <p><sub>Laravel · React · React Native · PostgreSQL · AWS · AI/LLMs</sub></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">Pet Sale & Adoption API</h3>
       <p align="center">
@@ -93,7 +105,7 @@ Senior Full-Stack Developer with **18+ years** building scalable APIs, SaaS plat
       <p align="center">
         <a href="https://electrolandgh.com" target="_blank"><img src="https://img.shields.io/badge/Live-electrolandgh.com-06B6D4?style=flat-square" /></a>
       </p>
-      <p>Comprehensive loyalty & ERP system for Ghana's largest electronics distributor. <b>USSD integration</b> for feature phones, points management, real-time analytics.</p>
+      <p>ERP + loyalty system for Ghana's largest electronics distributor (700+ employees, 20+ showrooms). <b>USSD integration</b> for feature phones, points management, real-time analytics.</p>
       <p><sub>Laravel · React · Redux · PostgreSQL · MySQL</sub></p>
     </td>
   </tr>

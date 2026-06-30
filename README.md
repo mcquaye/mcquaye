@@ -23,11 +23,9 @@
 
 ### 👨‍💻 About Me
 
-**Full-Stack Product Engineer** with **18+ years** building complete SaaS platforms — solo, end-to-end. From database schema to mobile app, from payment integration to AI features, from CI/CD to production deploy. I ship products, not just code.
+**Full-Stack Product Engineer** with **18+ years** helping businesses across fintech, healthcare, and e-commerce. I ship products, not just code — working across the full stack to build SaaS platforms, mobile apps, and AI-powered tools that solve real problems for real people.
 
-**What I build:** Multi-tenant SaaS · Payment & billing systems · AI-powered features · Real-time WebSocket apps · Admin panels · React Native mobile apps
-
-📍 Accra, Ghana &nbsp;·&nbsp; 🏢 Electroland Ghana Limited &nbsp;·&nbsp; 🌐 [mcquaye.com](https://mcquaye.com)
+📍 Accra, Ghana &nbsp;·&nbsp; 🌐 [mcquaye.com](https://mcquaye.com)
 
 > _"Just as we came about, so we shall go — like codes out of oblivion."_
 
@@ -87,7 +85,7 @@
       <p align="center">
         <a href="https://adwuma.app" target="_blank"><img src="https://img.shields.io/badge/Live-adwuma.app-06B6D4?style=flat-square" /></a>
       </p>
-      <p>Multi-tenant work management SaaS with <b>Paystack billing</b>, <b>AI (Gemini + Claude)</b>, real-time WebSocket notifications (Reverb), invoicing, 6 report types, admin panel, React SPA (8 micro-frontends) + React Native mobile app. <b>Built solo, end-to-end.</b></p>
+      <p>Multi-tenant work management SaaS with <b>Paystack billing</b>, <b>AI (Gemini + Claude)</b>, real-time WebSocket notifications (Reverb), invoicing, 6 report types, admin panel, React SPA (8 micro-frontends) + React Native mobile app. Built from the ground up.</p>
       <p><sub>Laravel · React · React Native · PostgreSQL · AWS · AI/LLMs</sub></p>
     </td>
   </tr>
@@ -149,18 +147,7 @@
 
 ---
 
-### 💼 Experience
-
-| Company                                    | Role                 | Period              |
-| ------------------------------------------ | -------------------- | ------------------- |
-| **Electroland Ghana Ltd**                  | Full-Stack Developer | Sep 2020 — Present  |
-| **Dripdok** (Bali, Indonesia)              | Frontend Developer   | Jan 2022 — Mar 2024 |
-| **LabMe by HelloWellness** (Delaware, USA) | Frontend Developer   | Jul 2021 — Oct 2023 |
-| **Ronin Africa**                           | Full-Stack Developer | Jun 2017 — 2022     |
-
----
-
-### 📈 Contribution Graph
+###  Contribution Graph
 
 <p align="center">
   <picture>
